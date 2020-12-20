@@ -3,7 +3,6 @@
 <a href="https://info.flagcounter.com/0pJE"><img src="https://s04.flagcounter.com/count2/0pJE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 主要用于记录一些平常的学习总结,可能会涉及到方方面面、中间件、并发、源码解析等等，感兴趣的请点击star或者watch，不要点fork哦!
-另外我也用typlog搭建了一个博客，有兴趣的可以关注下:https://acoder2013.typlog.io
 
 
 ### 目录:
