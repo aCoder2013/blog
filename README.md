@@ -8,6 +8,7 @@
 
 ### 目录:
 
+* [Cloudflare接口服务中断故障复盘与思考](https://github.com/aCoder2013/blog/issues/37)
 * [线性一致性实现原理剖析](https://github.com/aCoder2013/blog/issues/36)
 * [API网关从入门到放弃](https://github.com/aCoder2013/blog/issues/35)
 * [API网关异步化改造技术选型](https://github.com/aCoder2013/blog/issues/34)
